@@ -1,4 +1,4 @@
-# nuevo-repo
+# repositorio nuevo
 primer repo creado el GitHub
 ##descripcion
 
